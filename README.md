@@ -4,8 +4,8 @@
 This project analyzes credit card transaction data to derive insights into customer spending behavior, profitability, and strategic opportunities for a financial institution. It includes data cleaning, analysis using Python and SQL, and visualization of findings.
 
 ## Project Structure
-- `Credit_Card_Analysis.py`: Python script containing data analysis tasks and visualizations.
-- `Credit_Analysis_Output.xlsx`: Excel file with detailed analysis results.
+- `FinalCode.py`: Python script containing data analysis tasks and visualizations.
+- `Credit_Analysis_Output_Final.xlsx`: Excel file with detailed analysis results.
 - `README.md`: This file, providing project overview, instructions, and key findings.
 
 ## Key Tasks
